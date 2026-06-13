@@ -21,6 +21,7 @@ pandas-datareader  # Remote data access for pandas (FRED, World Bank, etc.)
 backtrader         # Popular framework for backtesting trading strategies
 vectorbt           # High-performance backtesting using vectorized operations
 talib              # Technical Analysis Library for financial market data indicators
+pandas-ta          # Easy-to-use Technical Analysis library for pandas (Recommended replacement for talib)
 backtesting        # Lightweight backtesting framework for Python
 pypfopt            # Financial library for portfolio optimization (Mean-variance, etc.)
 # itertools        # (Standard Lib) Functions for creating iterators for efficient looping
