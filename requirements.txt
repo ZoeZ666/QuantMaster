@@ -10,6 +10,8 @@ yfinance           # Download market data from Yahoo Finance
 pandas-datareader  # Remote data access for pandas (FRED, World Bank, etc.)
 backtrader         # Popular framework for backtesting trading strategies
 vectorbt           # High-performance backtesting using vectorized operations
+talib              #
+
 
 # --- Machine Learning ---
 scikit-learn       # Essential library for classical machine learning algorithms
@@ -34,3 +36,7 @@ transformers       # State-of-the-art NLP models (BERT, GPT, etc.) by Hugging Fa
 # --- Visualization ---
 matplotlib         # Comprehensive library for creating static, animated, and interactive visualizations
 plotly             # Library for interactive, publication-quality graphs
+
+
+# --- Other ---
+subprocess       
