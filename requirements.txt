@@ -1,0 +1,36 @@
+# --- Data Manipulation & Analysis ---
+pandas             # Core library for data manipulation and analysis (DataFrames)
+numpy              # Fundamental package for scientific computing and array operations
+polars             # High-performance DataFrame library for large datasets
+scipy              # Library for scientific and technical computing (optimization, statistics)
+statsmodels        #
+
+# --- Financial Data & Backtesting ---
+yfinance           # Download market data from Yahoo Finance
+pandas-datareader  # Remote data access for pandas (FRED, World Bank, etc.)
+backtrader         # Popular framework for backtesting trading strategies
+vectorbt           # High-performance backtesting using vectorized operations
+
+# --- Machine Learning ---
+scikit-learn       # Essential library for classical machine learning algorithms
+xgboost            # Gradient boosting framework optimized for speed and performance
+lightgbm           # Gradient boosting framework that uses tree-based learning algorithms
+
+# --- Deep Learning ---
+torch              # PyTorch: Deep learning framework for research and production
+torchvision        # Datasets, transforms, and models for computer vision (often used for time-series images)
+tensorflow         # End-to-end open-source machine learning platform
+keras              # High-level API for neural networks, running on top of TensorFlow
+
+# --- Database & Persistence ---
+sqlalchemy         # Python SQL toolkit and Object Relational Mapper (ORM)
+psycopg2-binary    # PostgreSQL database adapter for Python
+
+# --- NLP (For Financial News/Sentiment Analysis) ---
+nltk               # Leading platform for building Python programs to work with human language data
+spacy              # Library for advanced Natural Language Processing
+transformers       # State-of-the-art NLP models (BERT, GPT, etc.) by Hugging Face
+
+# --- Visualization ---
+matplotlib         # Comprehensive library for creating static, animated, and interactive visualizations
+plotly             # Library for interactive, publication-quality graphs
