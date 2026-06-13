@@ -3,24 +3,38 @@ pandas             # Core library for data manipulation and analysis (DataFrames
 numpy              # Fundamental package for scientific computing and array operations
 polars             # High-performance DataFrame library for large datasets
 scipy              # Library for scientific and technical computing (optimization, statistics)
-statsmodels        #
+statsmodels        # Statistical modeling, hypothesis testing, and time-series analysis
+# datetime         # (Standard Lib) Basic date and time types
+# time             # (Standard Lib) Time-related functions
+# math             # (Standard Lib) Mathematical functions
+# random           # (Standard Lib) Generate pseudo-random numbers
+
+# --- Data Scraping ---
+requests           # HTTP library for human-readable web requests
+beautifulsoup4     # Library for pulling data out of HTML and XML files
+lxml               # Powerful and fast XML and HTML processing library
+selenium           # Browser automation tool for scraping dynamic (JavaScript-heavy) websites
 
 # --- Financial Data & Backtesting ---
 yfinance           # Download market data from Yahoo Finance
 pandas-datareader  # Remote data access for pandas (FRED, World Bank, etc.)
 backtrader         # Popular framework for backtesting trading strategies
 vectorbt           # High-performance backtesting using vectorized operations
-talib              #
-
+talib              # Technical Analysis Library for financial market data indicators
+backtesting        # Lightweight backtesting framework for Python
+pypfopt            # Financial library for portfolio optimization (Mean-variance, etc.)
+# itertools        # (Standard Lib) Functions for creating iterators for efficient looping
+seaborn            # Statistical data visualization based on matplotlib
 
 # --- Machine Learning ---
 scikit-learn       # Essential library for classical machine learning algorithms
 xgboost            # Gradient boosting framework optimized for speed and performance
 lightgbm           # Gradient boosting framework that uses tree-based learning algorithms
+arch               # Tools for financial econometrics (ARCH, GARCH models)
 
 # --- Deep Learning ---
 torch              # PyTorch: Deep learning framework for research and production
-torchvision        # Datasets, transforms, and models for computer vision (often used for time-series images)
+torchvision        # Datasets, transforms, and models for computer vision
 tensorflow         # End-to-end open-source machine learning platform
 keras              # High-level API for neural networks, running on top of TensorFlow
 
@@ -37,6 +51,5 @@ transformers       # State-of-the-art NLP models (BERT, GPT, etc.) by Hugging Fa
 matplotlib         # Comprehensive library for creating static, animated, and interactive visualizations
 plotly             # Library for interactive, publication-quality graphs
 
-
 # --- Other ---
-subprocess       
+# subprocess       # (Standard Lib) Allows you to spawn new processes and connect to their pipes
